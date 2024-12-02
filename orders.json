@@ -1,0 +1,22 @@
+{
+    "orders": {
+        "1": {
+            "product": "gems",
+            "quantity": 20,
+            "price": 1.0,
+            "payment_type": "crypto"
+        },
+        "2": {
+            "product": "hbo_max",
+            "quantity": 1,
+            "price": 10.0,
+            "payment_type": "crypto"
+        },
+        "3": {
+            "product": "god_potion",
+            "quantity": 1,
+            "price": 10.0,
+            "payment_type": "Stripe"
+        }
+    }
+}

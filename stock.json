@@ -1,0 +1,63 @@
+{
+    "pets_go": {
+        "category_name": "Pets Go!",
+        "products": {
+            "gems": {
+                "product_name": "Gems",
+                "price": "$1/m",
+                "stock": 660
+            },
+            "instant_4": {
+                "product_name": "Instant Luck 4",
+                "price": "$0.03",
+                "stock": 70000,
+                "min_buy": 100
+            },
+            "god_potion": {
+                "product_name": "God Potions",
+                "price": "$10",
+                "stock": 69
+            },
+            "huge_dog": {
+                "product_name": "Huge Dog",
+                "price": "$15",
+                "stock": 10
+            },
+            "huge_cat": {
+                "product_name": "Huge Cat",
+                "price": "$15",
+                "stock": 10
+            },
+            "huge_dragon": {
+                "product_name": "Huge Dragon",
+                "price": "$15",
+                "stock": 5
+            },
+            "huge_egg": {
+                "product_name": "Huge Egg",
+                "price": "$25",
+                "stock": 5
+            }
+        }
+    },
+    "other": {
+        "category_name": "Other",
+        "products": {
+            "disney_plus": {
+                "product_name": "Disney+ Lifetime",
+                "price": "$10",
+                "stock": 10
+            },
+            "hbo_max": {
+                "product_name": "HBO Max Lifetime",
+                "price": "$10",
+                "stock": 9
+            },
+            "crunchyroll": {
+                "product_name": "Crunchyroll Lifetime",
+                "price": "$10",
+                "stock": 10
+            }
+        }
+    }
+}
